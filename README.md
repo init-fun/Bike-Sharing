@@ -7,3 +7,4 @@ This dataset contains the hourly and daily count of rental bikes between years 2
 
 In this project I applied various ML models in order to to find out the best model for this kind of dataset.
 
+Original dataset can be found here https://www.kaggle.com/marklvl/bike-sharing-dataset/.
